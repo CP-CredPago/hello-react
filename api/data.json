@@ -1,0 +1,14 @@
+{
+  "appointments": [
+    {
+      "date": "2018-01-01",
+      "time": "10:00",
+      "visitor": "Credinho",
+      "address": {
+        "street": "Rua dos inquilinos",
+        "number": "123"
+      },
+      "property_id": 123
+    }
+  ]
+}
